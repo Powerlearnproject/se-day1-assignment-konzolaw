@@ -6,6 +6,13 @@ Explain what software engineering is and discuss its importance in the technolog
 Its a dicsipline of engineering which entails designing , design, develop, test, and maintain software systems.
 its important in creating simple and easy to use softwares systems that solve world problems.
 
+software engineering is a branch of computer science used for developing, testing and maintaining software.
+reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+ scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+ security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+
+
 Identify and describe at least three key milestones in the evolution of software engineering.  
 1.implememntation of Obeject oriented Programming made it easy by introducing code reusability and modularity making work easier for developers hence they wont write so much code.
 2.emergence of High Level languages and structured programming which fostered for the good arrangement of codes ,and also easier solving of complex problems using lesser code by the High level programming languages like FORTRAN
